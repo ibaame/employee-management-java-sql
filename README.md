@@ -34,6 +34,11 @@ primary key(EID)
 ```
 <hr>
 
+### **The program interface**
+<img src="images/program_interface.png" alt="The program interface"/>
+
+<hr>
+
 ### **Notes:**
 * you need add [mysql-connector-java](https://dev.mysql.com/downloads/connector/j/) to project
 * you must have:
