@@ -32,8 +32,13 @@ primary key(EID)
 
 );
 ```
+<hr>
 
-
-
-
+### **Notes:**
+* you need add [mysql-connector-java](https://dev.mysql.com/downloads/connector/j/) to project
+* you must have:
+    * port
+    * database name
+    * user name
+    * password
 
